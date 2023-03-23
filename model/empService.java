@@ -4,7 +4,8 @@ import java.util.List;
 
 import aProject.vo.empVo;
 
-// service : 업무 로직 담당 : DAO와 controller의 연결 고리~
+// service : 업무 로직 담당 : DAO와 controller의 연결 고리~  여기도 수정 했음~~~
+
 public class empService {
 
 	empDAO dao = new empDAO();
